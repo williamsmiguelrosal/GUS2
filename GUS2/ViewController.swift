@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    //Mark: - Actions
+    //Mark: - Actions el jorge anda viendo que pedo
     @IBAction func SingIn(_ sender: Any) {
         print("SingIn Presionado")
         contador += 1
